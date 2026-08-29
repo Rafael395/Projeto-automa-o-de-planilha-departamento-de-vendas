@@ -34,7 +34,7 @@ A primeira etapa envolveu a transformação dos dados, coletando os dados e faze
 A segunda etapa envolve a importação de dados, sendo eles os dados dos vendedores e os dados das empresas, para assim ter acesso melhor a ID's, valores e datas relacionados a eles, com este tendo sido o resultado inicial:
 <img width="1920" height="1020" alt="Funcionarios_Pre_Tratamento" src="https://github.com/user-attachments/assets/5b4d26b9-a325-47b8-a44d-2d6bd086f734" />
 <img width="1920" height="1020" alt="FM_Pre_Tratamento" src="https://github.com/user-attachments/assets/68b7bda3-35d1-4b72-a0d2-7764577fe6d3" />
-<img width="1920" height="1020" alt="AHD_Pre_Tratamento" src="https://github.com/user-attachments/assets/7f7b2085-8639-4721-b4a9-b207734f4f51" />
+<img width="1920" height="1020" alt="AHD_Tratado" src="https://github.com/user-attachments/assets/6a9ea060-9417-44ae-aa37-741d256ea3a2" />
 <img width="1920" height="1020" alt="CM_Pre_Tratamento" src="https://github.com/user-attachments/assets/f2e22966-6c81-4ff0-8b7b-b57a623d458b" />
 <img width="1920" height="1020" alt="AB_Pre_Tratamento" src="https://github.com/user-attachments/assets/398478df-d20c-43ea-bc09-b6337a21e20e" />
 <img width="1920" height="1020" alt="SC_Pre_Tratamento" src="https://github.com/user-attachments/assets/73c43092-f742-4aeb-9872-b3b8b8f3b387" />
