@@ -45,3 +45,15 @@ Após os receber, um breve tratamento é necessário, transformando os dados em 
 <img width="1920" height="1020" alt="CM_Tratado" src="https://github.com/user-attachments/assets/c88b9daa-61a0-48c7-99b3-804a3151ad24" />
 <img width="1920" height="1020" alt="AB_Tratado" src="https://github.com/user-attachments/assets/d1ed777c-eb7f-4c55-acc6-d7a2b1d19d4c" />
 <img width="1920" height="1020" alt="SC_Tratado" src="https://github.com/user-attachments/assets/42875ceb-b7a9-4f89-862b-3162a705939f" />
+
+E com isso, chegamos na planilha de vendedores, da qual adicionei novas medidas de analise para os vendedores e que está conectada a planilha de de vendas, mas irei apresentar por partes, começando com a planilhas de vendas, sendo ela:
+<img width="1920" height="1020" alt="Vendedores_Tratado" src="https://github.com/user-attachments/assets/dd339af3-451e-42b6-b8de-903c8ecd8541" />
+
+Podendo se analisar tanto o valor total quanto a quantidade de vendas dos vendedores, além do numero de itens vendidos, é possível comparar com valores como datas de vendas e data de contratação para ter uma analise da performance de cada individuo.
+E junto dela, é necessário se mostrar a planilha de vendas, totalmente refeita e atualizada
+<img width="1920" height="1020" alt="Vendas_Tratado" src="https://github.com/user-attachments/assets/5b75810e-07ff-428c-9018-b4fc93b8caec" />
+
+Com o uso de Procx acompanhado de cálculos para comissões, lucros brutos e margem de lucro bruto esta nova planilha se baseia nos ID's, quantidades compradas e datas para realizar os cálculos e coletas de informação, embora ela seria mais realista e eficiente com uma tabela dinâmica de preços que refletisse a inflação e alteração de preços, porém como este não é o foco do projeto atual, esta parte ficará de lado.
+Outra tabela importante de se ter em mente, é a tabela auxiliar de valores agregados utilizados para simplificar o comando de procx na tabela de vendas, conforme a tabela de valores agregados junta as informações das planilhas especificas de cada empresa e alimenta a planilha de vendas com isso:
+<img width="1920" height="1020" alt="Agregados" src="https://github.com/user-attachments/assets/7a7a95e0-b56a-4d5e-a69a-4f8872e83e50" />
+
