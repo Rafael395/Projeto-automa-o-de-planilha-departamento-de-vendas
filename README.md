@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8b523ef2-90c2-4819-ba58-682e59d0fcd5" /># Projeto-automa-o-de-planilha-departamento-de-vendas
+# Projeto-automa-o-de-planilha-departamento-de-vendas
 Um projeto pessoal baseado e uma planilha de vendas de uma empresa 
 
 # Contexto
