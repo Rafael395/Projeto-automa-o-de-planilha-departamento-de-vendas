@@ -34,7 +34,6 @@ A primeira etapa envolveu a transformação dos dados, coletando os dados e faze
 A segunda etapa envolve a importação de dados, sendo eles os dados dos vendedores e os dados das empresas, para assim ter acesso melhor a ID's, valores e datas relacionados a eles, com este tendo sido o resultado inicial:
 <img width="1920" height="1020" alt="Funcionarios_Pre_Tratamento" src="https://github.com/user-attachments/assets/5b4d26b9-a325-47b8-a44d-2d6bd086f734" />
 <img width="1920" height="1020" alt="FM_Pre_Tratamento" src="https://github.com/user-attachments/assets/68b7bda3-35d1-4b72-a0d2-7764577fe6d3" />
-<img width="1920" height="1020" alt="AHD_Tratado" src="https://github.com/user-attachments/assets/6a9ea060-9417-44ae-aa37-741d256ea3a2" />
 <img width="1920" height="1020" alt="CM_Pre_Tratamento" src="https://github.com/user-attachments/assets/f2e22966-6c81-4ff0-8b7b-b57a623d458b" />
 <img width="1920" height="1020" alt="AB_Pre_Tratamento" src="https://github.com/user-attachments/assets/398478df-d20c-43ea-bc09-b6337a21e20e" />
 <img width="1920" height="1020" alt="SC_Pre_Tratamento" src="https://github.com/user-attachments/assets/73c43092-f742-4aeb-9872-b3b8b8f3b387" />
@@ -42,7 +41,7 @@ A segunda etapa envolve a importação de dados, sendo eles os dados dos vendedo
 ### 1.3 - Tratamento inicial
 Após os receber, um breve tratamento é necessário, transformando os dados em tabela, colocando as células com as devidas formatações e adicionando novas colunas úteis como margem de lucro e lucro bruto, com os seguintes resultados:
 <img width="1920" height="1020" alt="FM_Tratado" src="https://github.com/user-attachments/assets/1349c55a-f4b8-42ab-bf1c-7063399a698e" />
-<img width="1920" height="1020" alt="AHD_Tratado" src="https://github.com/user-attachments/assets/09b559f1-eea9-4150-96e5-dead193e2cb4" />
+<img width="1920" height="1020" alt="AHD_Tratado" src="https://github.com/user-attachments/assets/6a9ea060-9417-44ae-aa37-741d256ea3a2" />
 <img width="1920" height="1020" alt="CM_Tratado" src="https://github.com/user-attachments/assets/c88b9daa-61a0-48c7-99b3-804a3151ad24" />
 <img width="1920" height="1020" alt="AB_Tratado" src="https://github.com/user-attachments/assets/d1ed777c-eb7f-4c55-acc6-d7a2b1d19d4c" />
 <img width="1920" height="1020" alt="SC_Tratado" src="https://github.com/user-attachments/assets/42875ceb-b7a9-4f89-862b-3162a705939f" />
