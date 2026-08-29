@@ -40,4 +40,9 @@ A segunda etapa envolve a importação de dados, sendo eles os dados dos vendedo
 <img width="1920" height="1020" alt="SC_Pre_Tratamento" src="https://github.com/user-attachments/assets/73c43092-f742-4aeb-9872-b3b8b8f3b387" />
 
 ### 1.3 - Tratamento inicial
-Após os receber, um breve tratamento é necessário, transformando os dados em tabela, colocando as células com as devidas formatações e adicionando colunas uteis, sendo elas os valores de lucro e margens de lucro nos produtos, adicionando as quantidades de vendas para os vendedores e suas comissões com base nos dados fornecidos pela empresa contratante.
+Após os receber, um breve tratamento é necessário, transformando os dados em tabela, colocando as células com as devidas formatações e adicionando novas colunas úteis como margem de lucro e lucro bruto, com os seguintes resultados:
+<img width="1920" height="1020" alt="FM_Tratado" src="https://github.com/user-attachments/assets/1349c55a-f4b8-42ab-bf1c-7063399a698e" />
+<img width="1920" height="1020" alt="AHD_Tratado" src="https://github.com/user-attachments/assets/09b559f1-eea9-4150-96e5-dead193e2cb4" />
+<img width="1920" height="1020" alt="CM_Tratado" src="https://github.com/user-attachments/assets/c88b9daa-61a0-48c7-99b3-804a3151ad24" />
+<img width="1920" height="1020" alt="AB_Tratado" src="https://github.com/user-attachments/assets/d1ed777c-eb7f-4c55-acc6-d7a2b1d19d4c" />
+<img width="1920" height="1020" alt="SC_Tratado" src="https://github.com/user-attachments/assets/42875ceb-b7a9-4f89-862b-3162a705939f" />
