@@ -49,11 +49,18 @@ Após os receber, um breve tratamento é necessário, transformando os dados em 
 E com isso, chegamos na planilha de vendedores, da qual adicionei novas medidas de analise para os vendedores e que está conectada a planilha de de vendas, mas irei apresentar por partes, começando com a planilhas de vendas, sendo ela:
 <img width="1920" height="1020" alt="Vendedores_Tratado" src="https://github.com/user-attachments/assets/dd339af3-451e-42b6-b8de-903c8ecd8541" />
 
-Podendo se analisar tanto o valor total quanto a quantidade de vendas dos vendedores, além do numero de itens vendidos, é possível comparar com valores como datas de vendas e data de contratação para ter uma analise da performance de cada individuo.
+Podendo se analisar tanto o valor total vendido quanto a quantidade de vendas dos vendedores, além do numero de itens vendidos individualmente, é possível comparar com valores como datas de vendas e data de contratação para ter uma analise da performance de cada individuo.
 E junto dela, é necessário se mostrar a planilha de vendas, totalmente refeita e atualizada
 <img width="1920" height="1020" alt="Vendas_Tratado" src="https://github.com/user-attachments/assets/5b75810e-07ff-428c-9018-b4fc93b8caec" />
 
-Com o uso de Procx acompanhado de cálculos para comissões, lucros brutos e margem de lucro bruto esta nova planilha se baseia nos ID's, quantidades compradas e datas para realizar os cálculos e coletas de informação, embora ela seria mais realista e eficiente com uma tabela dinâmica de preços que refletisse a inflação e alteração de preços, porém como este não é o foco do projeto atual, esta parte ficará de lado.
+Com o uso de Procx acompanhado de cálculos para comissões, lucros brutos e margem de lucro bruto esta nova planilha se baseia nos ID's, quantidades compradas e datas para realizar os cálculos e coletas de informação, embora ela seria mais realista e eficiente com uma tabela dinâmica de preços que refletisse a inflação e alteração de preços, porém pela falta de informações para tornar isto possível no momento atual, este projeto em si trabalhará com preço único.
 Outra tabela importante de se ter em mente, é a tabela auxiliar de valores agregados utilizados para simplificar o comando de procx na tabela de vendas, conforme a tabela de valores agregados junta as informações das planilhas especificas de cada empresa e alimenta a planilha de vendas com isso:
 <img width="1920" height="1020" alt="Agregados" src="https://github.com/user-attachments/assets/7a7a95e0-b56a-4d5e-a69a-4f8872e83e50" />
+
+### 1.4 - Menu de pesquisas
+Após o tratamento inicial, foi feita a criação do menus, no qual colocarei 4 menus, dois de pesquisa e dois de adição com base em macros, primeiro, apresentarei os mais simples, os de pesquisa, baseados em procx, somase e cont.se, um tem como objetivo pesquisar quanto a um vendedor em especifico, enquanto o outro tem como objetivo pesquisar quanto a um produto em especifico, ambos baseados em ID para a pesquisa, com validação de dados certificando que a pesquisa esteja correta, com ambos em branco estando assim:
+<img width="1920" height="1020" alt="Menus_vazio" src="https://github.com/user-attachments/assets/6bc92797-70f2-4c25-b09e-916253153e2a" />
+
+E após a inserção dos devidos ID's, ficando da seguinte forma:
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/da60bc21-c1ff-4cc9-86f1-dcfaaf8ea57a" />
 
