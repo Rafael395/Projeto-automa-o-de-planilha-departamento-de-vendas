@@ -25,6 +25,10 @@ Sendo assim, a J&J pediu que 3 coisas fossem realizadas.
 Tratamento de dados em planilha, criação de dashboard, automatização de planilha e criação de relatório de vendas
 
 # O que foi feito
+
+## 0º Etapa - Pós produção
+Esta etapa foi adicionada após a finalização do documento em Excel, com o objetivo de dar duas informações, a primeira é que o arquivo tem uma senha de proteção, sendo a mesma "1234" que pode ser usada para desativar  proteção no mesmo, segundo, após baixar o arquivo, para que os macros funcionem, é necessário clicar com o botão direito nele, ir em propriedades, e então na aba de geral, ir em segurança e desbloquear para que os macros funcionem, caso não deseje rodar os macros, este processo é desnecessário.
+
 ## 1º Etapa - Tratamento de dados
 ### 1.1 - Primeiro tratamento
 A primeira etapa envolveu a transformação dos dados, coletando os dados e fazendo a correlação com base no que foi fornecido, tendo sido isso os ID's dos itens, junto das datas das vendas, e a troca dos nomes das empresas por suas abreviações usadas dentro da J&J tendo sido este o resultado:
