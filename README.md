@@ -57,10 +57,21 @@ Com o uso de Procx acompanhado de cálculos para comissões, lucros brutos e mar
 Outra tabela importante de se ter em mente, é a tabela auxiliar de valores agregados utilizados para simplificar o comando de procx na tabela de vendas, conforme a tabela de valores agregados junta as informações das planilhas especificas de cada empresa e alimenta a planilha de vendas com isso:
 <img width="1920" height="1020" alt="Agregados" src="https://github.com/user-attachments/assets/7a7a95e0-b56a-4d5e-a69a-4f8872e83e50" />
 
-### 1.4 - Menu de pesquisas
+### 1.4 - Menus
 Após o tratamento inicial, foi feita a criação do menus, no qual colocarei 4 menus, dois de pesquisa e dois de adição com base em macros, primeiro, apresentarei os mais simples, os de pesquisa, baseados em procx, somase e cont.se, um tem como objetivo pesquisar quanto a um vendedor em especifico, enquanto o outro tem como objetivo pesquisar quanto a um produto em especifico, ambos baseados em ID para a pesquisa, com validação de dados certificando que a pesquisa esteja correta, com ambos em branco estando assim:
 <img width="1920" height="1020" alt="Menus_vazio" src="https://github.com/user-attachments/assets/6bc92797-70f2-4c25-b09e-916253153e2a" />
 
 E após a inserção dos devidos ID's, ficando da seguinte forma:
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/da60bc21-c1ff-4cc9-86f1-dcfaaf8ea57a" />
 
+E por fim, quase finalizando o arquivo, chegamos na parte mais complexa dele, os menus para inserir um novo vendedor ou uma nova venda, feitos com macros em VBA do excel, ao se inserir os dados nos devidos menus, o macro irá os analisar, verificar se são condizentes com dedos pré estabelecidos na planilha, como ID's, depois irá verificar se eles são validos por si só, como datas de vendas que são anteriores a data de contratação de um vendedor, e por fim, após o fazer, ele adiciona os dados em suas devidas planilhas, seja a de vendas ou vendedores, ambos os menus em branco ficam desta maneira:
+<img width="1920" height="1020" alt="Menus_vazios" src="https://github.com/user-attachments/assets/e07b3415-fd45-46d8-bfbf-40df9bca97b6" />
+
+Agora irei adicionar um novo vendedor, com os seguintes dados:
+<img width="1920" height="1020" alt="Novo_Vendedor" src="https://github.com/user-attachments/assets/c3448a46-3e30-44e2-8110-f2b4eb58f0aa" />
+Após o adicionar aparece a seguinte mensagem:
+<img width="1920" height="1020" alt="mensagem_vendedor_novo" src="https://github.com/user-attachments/assets/dbe74e50-4e7b-4a39-ad3a-435129a4273b" />
+
+E a comparação do antes e depois com o novo vendedor adicionado, conforme nenhuma venda foi atribuída ao novo vendedor ainda, os valores dele apareceram como 0 ou nulos:
+<img width="1920" height="1020" alt="Vendedores_Antes" src="https://github.com/user-attachments/assets/e52f9b73-d5cb-4dc1-bf3b-a02d47ca57aa" />
+<img width="1920" height="1020" alt="Vendedores_Depois" src="https://github.com/user-attachments/assets/9483563c-30e8-4d74-adff-869e5d25a2f5" />
