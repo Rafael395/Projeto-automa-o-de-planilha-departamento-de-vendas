@@ -75,3 +75,42 @@ Após o adicionar aparece a seguinte mensagem:
 E a comparação do antes e depois com o novo vendedor adicionado, conforme nenhuma venda foi atribuída ao novo vendedor ainda, os valores dele apareceram como 0 ou nulos:
 <img width="1920" height="1020" alt="Vendedores_Antes" src="https://github.com/user-attachments/assets/e52f9b73-d5cb-4dc1-bf3b-a02d47ca57aa" />
 <img width="1920" height="1020" alt="Vendedores_Depois" src="https://github.com/user-attachments/assets/9483563c-30e8-4d74-adff-869e5d25a2f5" />
+
+E agora, utilizando o novo ID e vendedor, iremos adicionar uma nova venda para Adriano:
+<img width="1920" height="1020" alt="Nova_venda" src="https://github.com/user-attachments/assets/821e4c46-d6a1-45a9-8ac2-0428c570035a" />
+<img width="1920" height="1020" alt="venda_registrada" src="https://github.com/user-attachments/assets/44c64d39-15e1-4603-8b1e-55b5dd5f4d0f" />
+
+E agora o comparativo antes e depois da planilha de vendas:
+<img width="1920" height="1020" alt="Vendas_Antes" src="https://github.com/user-attachments/assets/5bde36c5-a335-40f2-8ccd-fa358920c054" />
+<img width="1920" height="1020" alt="Vendas_Depois" src="https://github.com/user-attachments/assets/dc499a2b-d2e2-4087-972c-9c574e1d8b8b" />
+
+E por fim, a tabela de vendedores atualizada agora que Adriano tem uma venda:
+<img width="1920" height="1020" alt="Vendedores_atualizada" src="https://github.com/user-attachments/assets/48f2ba40-4527-4f0b-a1b1-189056cc20b5" />
+
+Por fim, antes de finalizar, vou apenas demonstrar alguns erros que poderiam ter sido feitos e como o macro iria lidar com eles:
+1 - Adicionar venda com ID errado de vendedor:
+<img width="1920" height="1020" alt="Erro_ID" src="https://github.com/user-attachments/assets/00e5303f-172f-4ba6-aba5-b6c721b5ec3d" />
+
+2 - Adicionar venda com data de antes da contratação do vendedor 
+<img width="1920" height="1020" alt="venda_antes_contratacao" src="https://github.com/user-attachments/assets/c2b01539-432b-45b7-958f-5a528235dfeb" />
+
+3 - tentar adicionar campos em branco
+<img width="1920" height="1020" alt="campo_branco" src="https://github.com/user-attachments/assets/2849241b-d0af-4ad2-b800-711e57e7655d" />
+
+E por fim, este é o resultado final da planilha de Menus
+<img width="1920" height="1020" alt="menus" src="https://github.com/user-attachments/assets/3bbda74a-cdc6-44e4-8ae6-d3a3e05adf6e" />
+
+
+### 1.5 - Segurança
+Finalizando a planilha, aplicando um processo de segurança simples do excel, travando a edição das células e formas, permitindo que apenas certas células possam ser editadas, com as de pesquisa tendo as de pesquisa de menu sem senha conforme a validação de dados já limita seu uso, e as demais, salvo as de adição de vendedores ou vendas que precisam de senha, tendo a edição proibida, assim deixando a planilha mais segura, com as seguintes prints do processo de forma resumida:
+<img width="1920" height="1020" alt="seguranca" src="https://github.com/user-attachments/assets/119e9ec3-b71e-4d0a-a7a8-0adbe33663b2" />
+
+<img width="1920" height="1020" alt="seguranca2" src="https://github.com/user-attachments/assets/e3c078ee-a72a-4524-ae7f-7f65f4e41c77" />
+
+<img width="1920" height="1020" alt="seguranca3" src="https://github.com/user-attachments/assets/0ae06027-8ec6-4c28-8b89-b05e4e39589f" />
+
+<img width="1920" height="1020" alt="seguranca4" src="https://github.com/user-attachments/assets/38f21829-a68d-4ed4-9213-29d7986c8732" />
+
+<img width="1920" height="1020" alt="segurança5" src="https://github.com/user-attachments/assets/997b88a9-7f29-4f3c-a6f7-10f52b04d2b4" />
+
+E assim finalizando o processo da criação e desenvolvimento da planilha.
